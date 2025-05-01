@@ -102,4 +102,11 @@ Test fail in X tests
 
 ---
 
+✍️ Author
+Yara Khattab
+
+📧 Email: yarakhattab16@gmail.com
+
+🔗 GitHub: github.com/yarakhattab
+
 
