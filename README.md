@@ -107,6 +107,6 @@ Yara Khattab
 
 📧 Email: yarakhattab16@gmail.com
 
-🔗 GitHub: github.com/yarakhattab
+🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
 
 
